@@ -1,0 +1,1 @@
+console.log("V.O.I.D Assistant: Node.js Engine Check... Passed!");
